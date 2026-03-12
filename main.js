@@ -1,3 +1,4 @@
+// Completed all 10 functions
 const fs = require("fs");
 
 // ============================================================
